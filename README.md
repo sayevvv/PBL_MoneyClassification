@@ -22,7 +22,7 @@ Proyek ini memiliki implementasi backend terpisah menggunakan Flask untuk kebutu
 
 **Repositori Backend**
 Anda dapat mengakses kode sumber backend melalui tautan di bawah ini
-https://github.com/sayevvv/PBL_MoneyClassification_Backend
+https://github.com/sayevvv/Monev-BE
 
 ## Dataset
 
