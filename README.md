@@ -1,4 +1,4 @@
-# PBL - Klasifikasi Uang Rupiah
+# Monev - Intelligent Money Clasiifier
 
 Proyek ini bertujuan untuk membangun sistem Machine Learning yang mampu mengenali dan mengklasifikasikan nominal uang kertas Rupiah Indonesia. Sistem ini memanfaatkan teknik Computer Vision untuk ekstraksi fitur dan membandingkan kinerja algoritma klasifikasi seperti Support Vector Machine atau SVM dan XGBoost.
 
